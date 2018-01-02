@@ -1,0 +1,2 @@
+# odin-bot
+Discord bot.
